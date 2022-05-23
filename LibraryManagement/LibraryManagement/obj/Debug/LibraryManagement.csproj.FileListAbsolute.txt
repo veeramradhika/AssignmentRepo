@@ -1,0 +1,8 @@
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.SuggestedBindingRedirects.cache
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\TrainingRepo\CsharpHandson\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
