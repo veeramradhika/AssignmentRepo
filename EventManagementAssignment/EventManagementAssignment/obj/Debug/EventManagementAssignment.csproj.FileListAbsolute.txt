@@ -1,0 +1,8 @@
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\obj\Debug\EventManagementAssignment.csproj.AssemblyReference.cache
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\obj\Debug\EventManagementAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\obj\Debug\EventManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\bin\Debug\EventManagementAssignment.exe.config
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\bin\Debug\EventManagementAssignment.exe
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\bin\Debug\EventManagementAssignment.pdb
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\obj\Debug\EventManagementAssignment.exe
+C:\Users\Radhika\OneDrive\Desktop\c sharp\EventManagementAssignment\EventManagementAssignment\obj\Debug\EventManagementAssignment.pdb
